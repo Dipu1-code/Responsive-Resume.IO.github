@@ -6,4 +6,9 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+
 /* Write CSS code below */
+.main-content{
+     display: grid;
+     grid-template-columns: 300px,700px;
+ }
