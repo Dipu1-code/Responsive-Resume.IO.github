@@ -31,12 +31,13 @@ body{
 .left-content{
     padding: 1rem;
 }
+
 .profile-image{
     display: block;
     margin: auto;
     border: 5px white solid;
     border-radius: 30%;
-    width: 50%;
+    width: 60%;
 }
 .name{
     font-size: 1.2rem;
